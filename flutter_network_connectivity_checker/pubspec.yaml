@@ -1,7 +1,7 @@
 name: flutter_network_connectivity_checker
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_network_connectivity_checker
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_network_connectivity_checker
 
 environment:
   sdk: ^3.8.1
